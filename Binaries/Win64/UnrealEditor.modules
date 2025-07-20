@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"MetaSoundExt": "UnrealEditor-MetaSoundExt.dll",
+		"OrpheusSound": "UnrealEditor-OrpheusSound.dll"
+	}
+}
